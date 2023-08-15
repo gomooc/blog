@@ -1,0 +1,6 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://ghproxy.net/https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/Diary"]
+	path = themes/Diary
+	url = https://ghproxy.net/https://github.com/AmazingRise/hugo-theme-diary.git
