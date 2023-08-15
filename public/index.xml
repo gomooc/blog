@@ -1,0 +1,29 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>鲸云</title>
+    <link>http://example.org/</link>
+    <description>Recent content on 鲸云</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Aug 2023 05:46:01 +0800</lastBuildDate>
+    
+        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Ceshi</title>
+        <link>http://example.org/posts/ceshi/</link>
+        <pubDate>Wed, 16 Aug 2023 05:46:01 +0800</pubDate>
+        
+        <guid>http://example.org/posts/ceshi/</guid>
+        <description>鲸云 http://example.org/posts/ceshi/ -&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+- http://example.org/posts/ceshi/ - </description>
+        </item>
+    
+    
+  </channel>
+</rss> 
