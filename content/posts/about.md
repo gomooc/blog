@@ -1,0 +1,76 @@
+---
+title: About
+description: Product strategy, design and development agency that that has built and scaled products to millions of users.
+menu:
+  main:
+    weight: 80
+---
+
+<div class="container">
+    <h1 class="py-5 text-center">About Us</h1>
+</div>
+
+<div class="bg-skew bg-skew-light mb-5">
+    <div class="container">
+        <div class="row justify-content-lg-center">
+            <div class="col-lg-9">
+                <p>Alora Labs is a product strategy, design and development consultancy based in Toronto 🇨🇦 that helps innovative companies disrupt industries.</p>
+                <p >With deep technical and industry expertise, our team helps companies at all stages of maturity — from startups looking for Product Market Fit to established businesses looking to scale.</p>
+                <p>
+                Whether it's physical or digital products, we work with organizations of all sizes to create products that their customers love. </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="text-center">
+    <h2>Our Process</h2>
+    <div class="divider mx-auto mb-5"></div>
+</div>
+
+<div class="grid container mb-5">
+    <!--<div class="timeline"></div>-->
+    <div class="row align-items-center py-4">
+        <div class="col-md-5">
+            <img src="product-management.svg" loading="lazy" class="img-fluid">
+        </div>
+        <div class="col-md-5 offset-md-2">
+            <h4>Plan</h4>
+            <p>
+                Get in touch for a no-charge consultation. We will discuss the challenges your business faces and what we can do to help.
+            </p>
+        </div>
+    </div>
+    <div class="row align-items-center py-4">
+        <div class="col-md-5 ">
+            <h4>Build</h4>
+            <p>
+                With the full picture in mind, we'll design and engineer your product.
+                We deliver early and communicate often to ensure we're on the right track and ensure expectations are aligned.
+            </p>
+        </div>
+        <div class="col-md-5 offset-md-2">
+            <img src="custom-development.svg" loading="lazy" class="img-fluid">
+        </div>
+    </div>
+    <div class="row align-items-center py-4">
+        <div class="col-md-5">
+            <img src="growth.svg" loading="lazy" class="img-fluid">
+        </div>
+        <div class="col-md-5 offset-md-2">
+            <h4>Scale</h4>
+            <p>
+                Once the product is usable and in the hands of some early users, it is typically a good time to step back and reflect on room for improvement.
+                What can we do to elevate your product and iterate on features?
+            </p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="text-center py-4">
+            <h2 class="mb-4">Interested in learning more?</h2>
+            <a id="contact-us-button-home" class="btn btn-primary" href="/contact" role="button">Contact Us</a>
+            <p class="mt-4">💡 Check out our guide - <a href="/insights/how-to-develop-your-iot-product/">How To Develop Your IoT Product</a></p>
+        </div>
+    </div>
+</div>

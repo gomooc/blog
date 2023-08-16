@@ -4,3 +4,9 @@
 [submodule "themes/Diary"]
 	path = themes/Diary
 	url = https://ghproxy.net/https://github.com/AmazingRise/hugo-theme-diary.git
+[submodule "themes/archie"]
+	path = themes/archie
+	url = https://ghproxy.net/https://github.com/athul/archie
+[submodule "themes/zzo"]
+	path = themes/zzo
+	url = https://ghproxy.net/https://github.com/zzossig/hugo-theme-zzo.git

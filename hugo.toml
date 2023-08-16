@@ -1,4 +1,47 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://gomooc.github.io/blog/'
+DefaultContentLanguage = "zh"
 languageCode = 'en-us'
 title = '鲸云'
-theme = 'Diary'
+theme = 'zzo'
+copyright = "版权@gomooc"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "perldoc"
+    tabWidth = 4
+
+[params]
+subtitle = "安静🤫平和"
+favicon = "https://icons.bootcss.com/assets/icons/cpu-fill.svg"
+enableLaTeX = true
+
+
+# Microsoft Clarity (https://clarity.microsoft.com/) is a free user behavior recording and analytics tool
+clarity = "abcdefghzd"
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+
+[[menu.main]]
+url = "/categories"
+name = "分类"
+weight = 2
+[[menu.main]]
+url = "/tags"
+name = "标签"
+weight = 3
+[[menu.main]]
+url = "/posts"
+name = "归档"
+weight = 1
+
+[markup.goldmark.renderer]
+    unsafe = true
