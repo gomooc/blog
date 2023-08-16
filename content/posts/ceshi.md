@@ -33,3 +33,9 @@ src="{{ /images/abhs.png }}">
     color="#E34C26"
     language="HTML"
 >}}
+
+{{< embed-pdf url="./math-001.pdf" >}}
+
+### PDF
+
+{{< embed-pdf url="./math-001.pdf" hidePaginator="true" >}}

@@ -2,7 +2,8 @@ baseURL = 'https://gomooc.github.io/blog/'
 DefaultContentLanguage = "zh"
 languageCode = 'en-us'
 title = '鲸云'
-theme = 'zzo'
+theme = ["hugo-embed-pdf-shortcode", "archie"]
+enableInlineShortcodes = true
 copyright = "版权@gomooc"
 
 [markup]
@@ -45,3 +46,4 @@ weight = 1
 
 [markup.goldmark.renderer]
     unsafe = true
+
